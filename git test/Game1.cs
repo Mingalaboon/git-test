@@ -8,7 +8,7 @@ namespace git_test
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        int MINGKEY;
 
         public Game1()
         {
