@@ -9,6 +9,7 @@ namespace git_test
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int MINGKEY;
+        float IsGay;
 
         public Game1()
         {
