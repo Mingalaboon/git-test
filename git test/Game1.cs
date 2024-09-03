@@ -10,6 +10,7 @@ namespace git_test
         private SpriteBatch _spriteBatch;
         int MINGKEY;
         float IsGay;
+        int with;
 
         public Game1()
         {
